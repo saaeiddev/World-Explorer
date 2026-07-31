@@ -9,7 +9,7 @@ Preview :
 Desktop Version 
 
 <img src="earth 1.png" alt="Project Preview">
-<img src="earth 2" alt="Project Preview">
+<img src="earth 2.png" alt="Project Preview">
 
 
 Key Design Highlights
