@@ -6,6 +6,11 @@ Designed with a strong focus on visual storytelling, spatial depth, and intuitiv
 
 Preview : 
 
+Desktop Version 
+
+<img src="earth 1.png" alt="Project Preview">
+<img src="earth 2" alt="Project Preview">
+
 
 Key Design Highlights
 ✨ Modern Liquid Glass UI with layered translucent panels
